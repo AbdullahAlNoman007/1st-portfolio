@@ -34,3 +34,17 @@ section{
     background-image: url(Image/top-banner.png);
     background-repeat: no-repeat;
 }
+#button-2{
+    text-decoration: none;
+    font-size: 19px;
+    padding: 2% 8%;
+    border-radius: 9px;
+    background-image: linear-gradient(rgb(6, 6, 244),rgb(120, 120, 224));
+    color:white;
+    font-weight: 700;
+}
+#mid{
+    background-image: url(Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
